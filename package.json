@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LuckyDayX.github.io/react-test.git",
+  "homepage": "https://LuckyDayX.github.io/react-test",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.5",
@@ -40,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
